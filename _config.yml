@@ -26,8 +26,8 @@ url: smile-sunshine.github.io
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
-gavatar: /public/img/ali.png
-favicon: /public/img/ali.png
+gavatar: /public/img/ali.jpg
+favicon: /public/img/ali.jpg
 
 # google analytics 设置
 ga:
