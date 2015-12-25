@@ -10,7 +10,7 @@ description:
 
 >圣诞快乐！么么哒。
 
-![](public/img/MerryChristmas.jpg)
+![](/public/img/MerryChristmas.jpg)
 
 By Cacool
 
